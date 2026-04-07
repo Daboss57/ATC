@@ -1,0 +1,16 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+		{isa = PBXFileReference; lastKnownFileType = wrapper.application; path = ATC.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		{isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ATCApp.swift; sourceTree = "<group>"; };
+		{isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		{isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioStreamManager.swift; sourceTree = "<group>"; };
+		{isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Station.swift; sourceTree = "<group>"; };
+		{isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+	};
+	rootObject = {isa = PBXProject; };
+}
